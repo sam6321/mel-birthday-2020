@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mel-birthday-2020/static/css/main.4a6cd45f.chunk.css",
+    "main.js": "/mel-birthday-2020/static/js/main.1720c6d2.chunk.js",
+    "main.js.map": "/mel-birthday-2020/static/js/main.1720c6d2.chunk.js.map",
+    "runtime-main.js": "/mel-birthday-2020/static/js/runtime-main.d39719f4.js",
+    "runtime-main.js.map": "/mel-birthday-2020/static/js/runtime-main.d39719f4.js.map",
+    "static/js/2.5d2ecd57.chunk.js": "/mel-birthday-2020/static/js/2.5d2ecd57.chunk.js",
+    "static/js/2.5d2ecd57.chunk.js.map": "/mel-birthday-2020/static/js/2.5d2ecd57.chunk.js.map",
+    "index.html": "/mel-birthday-2020/index.html",
+    "precache-manifest.afa21c4538cdf48ffb19001bfac9e055.js": "/mel-birthday-2020/precache-manifest.afa21c4538cdf48ffb19001bfac9e055.js",
+    "service-worker.js": "/mel-birthday-2020/service-worker.js",
+    "static/css/main.4a6cd45f.chunk.css.map": "/mel-birthday-2020/static/css/main.4a6cd45f.chunk.css.map",
+    "static/js/2.5d2ecd57.chunk.js.LICENSE.txt": "/mel-birthday-2020/static/js/2.5d2ecd57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d39719f4.js",
+    "static/js/2.5d2ecd57.chunk.js",
+    "static/css/main.4a6cd45f.chunk.css",
+    "static/js/main.1720c6d2.chunk.js"
+  ]
+}
